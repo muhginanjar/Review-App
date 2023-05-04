@@ -1,0 +1,118 @@
+CRITICAL - 2023-05-04 01:54:40 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:54:44 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:55:31 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:56:04 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:56:06 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:57:16 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 01:57:17 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('cover.css')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:02:06 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:13:12 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('gins')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:13:34 --> Undefined variable $data
+in APPPATH\Views\templates\header.php on line 12.
+ 1 APPPATH\Views\templates\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Pages.php(20): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:13:38 --> Undefined variable $data
+in APPPATH\Views\templates\header.php on line 12.
+ 1 APPPATH\Views\templates\header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Pages.php(20): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:14:08 --> Undefined variable $data
+in APPPATH\Views\templates\header.php on line 11.
+ 1 APPPATH\Views\templates\header.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Pages.php(20): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:14:58 --> Undefined variable $data
+in APPPATH\Views\templates\header.php on line 11.
+ 1 APPPATH\Views\templates\header.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Pages.php(22): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:14:59 --> Undefined variable $data
+in APPPATH\Views\templates\header.php on line 11.
+ 1 APPPATH\Views\templates\header.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\LARAGON\\www\\review-app\\app\\Views\\templates\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 5 APPPATH\Controllers\Pages.php(22): view('templates/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 02:15:07 --> syntax error, unexpected string content "] ?></title>", expecting "," or ";"
+in APPPATH\Views\templates\header.php on line 11.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(22): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('msh')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
